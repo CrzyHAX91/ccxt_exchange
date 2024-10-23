@@ -1,0 +1,2 @@
+# ccxt_exchange
+CryptoTradingBot
